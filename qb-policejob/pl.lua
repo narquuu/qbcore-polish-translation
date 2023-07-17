@@ -1,3 +1,4 @@
+
 local Translations = {
     error = {
         license_already = 'Gracz ma już licencję',
@@ -159,7 +160,7 @@ local Translations = {
         unjail_player = 'Wypuść gracza z więzienia (tylko dla policji)',
         clearblood = 'Oczyść obszar z krwi (tylko dla policji)',
         seizecash = 'Skonfiskuj gotówkę (tylko dla policji)',
-        softcuff = 'Delikatne zakucie (tylko dla policji
+        softcuff = 'Delikatne zakucie (tylko dla policji)',
         camera = 'Podgląd kamery monitoringu (tylko dla policji)',
         flagplate = 'Oznacz numer rejestracyjny (tylko dla policji)',
         unflagplate = 'Usuń oznaczenie numeru rejestracyjnego (tylko dla policji)',
